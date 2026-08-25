@@ -13,8 +13,11 @@ Also this is my first time using markdown so I hope you like it lol
 
 ```bash
 $ git clone https://github.com/TweetyGuy/ascii-renderer
+$ cd ascii-renderer
 $ make test
 ```
+
+(Requires gcc)
 
 ## 🔌 Controls
 
